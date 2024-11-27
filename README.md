@@ -32,11 +32,14 @@
 
 ## Input:
 
-### Output:
+### Output: !
+![image](https://github.com/user-attachments/assets/4e1a8808-cb59-4944-a50e-45fd872e957c)
 
 
-### Name:
-### Register Number:
+
+
+### Name: Tharun Kumar V
+### Register Number:24000459
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
